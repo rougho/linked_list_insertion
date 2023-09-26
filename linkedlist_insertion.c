@@ -1,14 +1,3 @@
-// Rouhollah Ghobadinezhad
-// Algorithm and Data Structure
-// HW2/Q2
-
-// Task: Write a program that reads data from a file named BST-BCS-11a_Students.txt and inserts 
-// them into a data structure made up of linked lists in a sorted manner with respect to your requirement
-//  in the table below. Then print the whole data to the screen. 
-
-
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
